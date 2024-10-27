@@ -7,3 +7,12 @@
 
 # MFA
 ![image](https://github.com/user-attachments/assets/3304e3c5-d5b3-436e-aa68-5bf0d69a6bf7)
+
+# AWS CLI Users
+![image](https://github.com/user-attachments/assets/79bb7d21-0764-43e2-948d-f8228af90555)
+
+# AWS CLI Groups
+![image](https://github.com/user-attachments/assets/e3aa8afe-0339-4f9e-94b7-ccd5ef566cb9)
+
+# AWS CLI File structure
+![image](https://github.com/user-attachments/assets/013065a1-7028-4831-b22b-03c260a28f79)
