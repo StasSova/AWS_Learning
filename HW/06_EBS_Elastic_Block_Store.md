@@ -1,16 +1,14 @@
 # Вам треба створити роль для вашого EC2 instance. Ця роль має дозволяти дивитися користувачів IAM.
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/4ccec10c-df54-492e-986c-b404a99cdd13/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/3d693bce-3aac-4d11-b4f7-e7cfbdc80026/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/1939f94c-17e9-4247-a96d-e012f9eed9d0/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/33e2a448-b01c-4fcf-b079-235c1c44f9d7/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/d52fdfb6-ba11-46be-b4b8-b82fa378495b/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/716fb5dc-97b6-4103-8de7-b0cdb0654774/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/4816c140-79b6-4b5c-bbbd-8ebc0a50b16c/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/e563a19c-6af6-425c-a118-c334685c7b2c/image.png) 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/41644ffd-3b6c-4f02-b7a6-5290eaa80609/image.png) 
-
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/41644ffd-3b6c-4f02-b7a6-5290eaa80609/image.png)
+![image](https://github.com/user-attachments/assets/7521a36a-5494-4adf-9caa-90d479b59188)
+![image](https://github.com/user-attachments/assets/8ccda2e8-8625-4fe2-9512-f4b630a2b577)
+![image](https://github.com/user-attachments/assets/efe9a742-a17b-47f4-abe6-f3662ec6f9b0)
+![image](https://github.com/user-attachments/assets/f97c9d67-ad78-4859-b74f-820b751bfb99)
+![image](https://github.com/user-attachments/assets/92cb6e9b-2137-4787-a2d4-fe1ca96aa1e2)
+![image](https://github.com/user-attachments/assets/4bcb8c26-f872-4c08-9f14-11412c51c91c)
+![image](https://github.com/user-attachments/assets/640b2ee4-34ac-4597-a2eb-e049ae36ecd7)
+![image](https://github.com/user-attachments/assets/b220cd9e-4d31-4c30-8e9a-ae9456957ba7)
+![image](https://github.com/user-attachments/assets/5ed11b36-9615-4e99-8380-c197fc76f93c)
+![image](https://github.com/user-attachments/assets/c1c22110-e123-494d-bf34-b8663ad1333e)
 
 # До вашого інстансу EC2 додайте будь ласка один volume розміром 8Gb.
 ![image](https://github.com/user-attachments/assets/99d87ceb-c302-4f4e-a5c9-4083458c80e9)
