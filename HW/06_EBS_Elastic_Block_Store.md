@@ -9,6 +9,9 @@
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/e563a19c-6af6-425c-a118-c334685c7b2c/image.png) 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/41644ffd-3b6c-4f02-b7a6-5290eaa80609/image.png) 
 
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0550651c-4201-4f7f-a88f-c77ebc96d75f/41644ffd-3b6c-4f02-b7a6-5290eaa80609/image.png)
+
 # До вашого інстансу EC2 додайте будь ласка один volume розміром 8Gb.
 ![image](https://github.com/user-attachments/assets/99d87ceb-c302-4f4e-a5c9-4083458c80e9)
 ![image](https://github.com/user-attachments/assets/b00e42d4-0830-46ed-94ad-c63b7e83a284)
