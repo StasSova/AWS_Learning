@@ -1,0 +1,105 @@
+﻿Student Information:
+IsFullTime: False
+GPA: 3.5
+Major: Biology
+FirstName: Emily
+Id: 2
+EnrolledYear: 2021
+LastName: Smith
+Email: emily.smith@example.com
+Age: 22
+------------------------------
+
+Student Information:
+Specialization: Cybersecurity
+LanguagesKnown: False
+Certification: Certified Ethical Hacker
+ResearchPapers: 3
+Id: 13
+FirstAndLastName: Noah Lee
+------------------------------
+
+Student Information:
+IsFullTime: True
+GPA: 3.8
+Major: Computer Science
+FirstName: John
+Id: 1
+EnrolledYear: 2022
+LastName: Doe
+Email: john.doe@example.com
+Age: 20
+------------------------------
+
+Student Information:
+IsFullTime: False
+GPA: 3.4
+Major: Engineering
+FirstName: James
+Id: 5
+EnrolledYear: 2020
+LastName: Williams
+Email: james.williams@example.com
+Age: 23
+------------------------------
+
+Student Information:
+IsFullTime: True
+GPA: 3.6
+Major: Psychology
+FirstName: Sophia
+Id: 4
+EnrolledYear: 2023
+LastName: Brown
+Email: sophia.brown@example.com
+Age: 19
+------------------------------
+
+Student Information:
+CreditsCompleted: 60
+GraduationYear: 2025
+Scholarship: True
+FullName: Liam White
+Course: Artificial Intelligence
+Id: 11
+------------------------------
+
+Student Information:
+IsFullTime: True
+GPA: 3.9
+Major: Mathematics
+FirstName: Michael
+Id: 3
+EnrolledYear: 2023
+LastName: Johnson
+Email: michael.johnson@example.com
+Age: 21
+------------------------------
+
+Student Information:
+GraduationYear: 2024
+StudentName: Ava Martinez
+ProjectsCompleted: 8
+Id: 12
+FieldOfStudy: Fine Arts
+InternshipCompany: ArtDesign Inc
+------------------------------
+
+Student Information:
+LinkedInProfile: https://linkedin.com/in/ethanperez
+CompetitionsWon: 2
+MajorField: Economics
+Id: 15
+BusinessPlanSubmitted: True
+StudentId: Ethan Perez
+------------------------------
+
+Student Information:
+Achievements: False
+VolunteerHours: 120
+Id: 14
+Department: Environmental Science
+Name: Mia Clark
+FavoriteSubject: Climate Change
+------------------------------
+
